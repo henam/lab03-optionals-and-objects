@@ -15,7 +15,7 @@ characters) and the body. Like an email, the subject should be consise and
 describe what's going on. For example:
 
 
-	Fixe grammar and typos in introduction to user guide
+	Fix grammar and typos in introduction to user guide
 
 	Apparently there are more exceptions to "'i' comes before 'e'" than
 	there are words that follow it. Also, "'s"s are confusing.
@@ -27,7 +27,7 @@ see what your commits are by using `git log`. You should see something like:
 	Author: Paul Crane <pscrane@gmail.com>
 	Date:   Fri Jul 6 17:18:01 2018 +1300
 	
-	    Fixe grammar and typos in introduction to user guide
+	    Fix grammar and typos in introduction to user guide
 
 There are also all sorts of pretty printing options too, which you can look
 into if you'd like. Have a look at [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
